@@ -1,3 +1,5 @@
+### Using a CTE to find the top 5 Rockbuster customers in the top 10 countries by total amount paid
+
 WITH top_countries_cte AS
 	(SELECT D.country,
 	COUNT(customer_id) AS customer_count
