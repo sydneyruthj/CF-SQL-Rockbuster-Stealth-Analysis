@@ -1,3 +1,5 @@
+### Finding the top 10 countries by customer volume
+
 SELECT D.country,
 	COUNT(customer_id) AS customer_count
 FROM customer A
