@@ -1,3 +1,5 @@
+### Finding the 10 least profitable movies in the Rockbuster inventory
+
 SELECT D.title,
 	SUM(A.amount) AS total_revenue
 FROM film D
