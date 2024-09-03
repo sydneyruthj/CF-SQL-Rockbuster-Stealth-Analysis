@@ -1,3 +1,5 @@
+### Finding the top 10 movies by revenue generated in the Rockbuster inventory
+
 SELECT D.title,
 	SUM(A.amount) AS total_revenue
 FROM film D
