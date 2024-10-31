@@ -15,7 +15,7 @@ Rockbuster's questions included:
 The data set for this project was around 3MB. Multiple data files were loaded into a RDBMS. The data consisted of 14 interconnected tables. An ERD I built using DbVisualizer can be found here:
 ![RockbusterERD](https://github.com/user-attachments/assets/293f1d8a-623d-440f-8e68-61a6166cd3ed)
 
-## ToolsQ
+## Tools
 I wrote all of my SQL queries using PostgreSQL in PgAdmin 4 and designed my visualizations in Tableau. [A link to an interactive map I built in Tableau can be found here.](https://public.tableau.com/views/RockbusterMap_17192522289990/Map?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Resources
